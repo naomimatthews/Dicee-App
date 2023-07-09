@@ -4,8 +4,7 @@ The Dicee app is a simple iOS application that simulates the rolling of two dice
 
 ## Screenshots
 
-![dicee](https://github.com/naomimatthews/Dicee-App/assets/67332327/463cdca9-c513-445f-8fb5-453347117614)
-
+![dicee](https://github.com/naomimatthews/Dicee-App/assets/67332327/bba12522-c79e-4bfa-9f9c-16f7b5676d99)
 
 ## Features
 
